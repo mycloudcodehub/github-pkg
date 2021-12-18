@@ -1,0 +1,25 @@
+{
+  "name": "@mycloudcodehub/github-pkg",
+  "version": "1.0.0",
+  "description": "custom privet package collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycloudcodehub/github-pkg.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "kpg"
+  ],
+  "author": "faisalindex@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mycloudcodehub/github-pkg/issues"
+  },
+  "homepage": "https://github.com/mycloudcodehub/github-pkg#readme"
+}
